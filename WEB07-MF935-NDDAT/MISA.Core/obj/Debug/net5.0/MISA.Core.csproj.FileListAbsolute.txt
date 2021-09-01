@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\bin\Debug\net5.0\MISA.Core.deps.json
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\bin\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.Core\obj\Debug\net5.0\MISA.Core.pdb

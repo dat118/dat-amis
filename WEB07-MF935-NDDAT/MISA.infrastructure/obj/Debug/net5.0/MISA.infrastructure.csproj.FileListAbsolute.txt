@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\bin\Debug\net5.0\MISA.infrastructure.deps.json
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\bin\Debug\net5.0\MISA.infrastructure.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\bin\Debug\net5.0\ref\MISA.infrastructure.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\bin\Debug\net5.0\MISA.infrastructure.pdb
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.Resource.resources
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\ref\MISA.infrastructure.dll
+C:\Users\Admin\source\repos\WEB07-MF935-NDDAT\MISA.infrastructure\obj\Debug\net5.0\MISA.infrastructure.pdb
